@@ -1,4 +1,3 @@
-import "regenerator-runtime/runtime";
 import { ethers } from "ethers";
 import { parseUnits, hexlify } from "ethers/lib/utils";
 
