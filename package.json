@@ -1,9 +1,9 @@
 {
-  "name": "l1-web3wallet-signer",
+  "name": "game-web3wallet",
   "version": "0.1.0",
   "private": true,
   "main": "index.html",
-  "homepage": "https://chrismahoney.github.io/l1-web3wallet-signer",
+  "homepage": "https://chrismahoney.github.io/game-web3wallet/",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build ./index.html --public-url /game-web3wallet --target node --bundle-node-modules --out-dir ./dist --no-minify --out-file index.html"
